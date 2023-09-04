@@ -1,4 +1,4 @@
-# Medical-Diagnosis-System
+# Expert System
 Expert System is a system that seeks to adopt human knowledge to the computer, so that the computer can solve problems which are usually done by experts. The purpose of medical expert system is to support the diagnosis process of physicians. It considers facts and symptoms to provide diagnosis. This implies that a medical expert system uses knowledge about diseases and facts about the patients to suggest diagnosis.
 ![expertsystem](expertsystem.png)
 ## Motivation
