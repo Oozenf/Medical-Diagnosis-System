@@ -7,5 +7,6 @@ This issue caught our attention as it is a real problem in the World. In the tre
 ## Technique
 I planned to use a rule-based technique. Rule-based systems are the easiest type of AI. The definition of a rule-based system often relies on expert systems that simulate the cognitive behavior of the human expert in solving a knowledge-intensive challenge. This method is sufficient for diagnostic and classification difficulties.
 
-![sample](mds1.png)
-![sample](mds2.png)
+![sample1](mds1.png)
+
+![sample2](mds2.png)
